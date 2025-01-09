@@ -1,4 +1,4 @@
-In this project, we developed a machine learning model to predict the price of an Airbnb property using a dataset with various features. The following steps detail the process and decisions made to optimize the model's performance:
+In this project, we developed a machine learning model to predict the price of Airbnb properties in Lisbon using a dataset with various features. The following steps detail the process and decisions made to optimize the model's performance:
 
 Project Steps:
 
